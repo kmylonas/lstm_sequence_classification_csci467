@@ -1,4 +1,4 @@
-# lstm_sequence_classification_csci467
+# DistilBERT vs LSTM vs Naive Bayes on sentiment analysis
 
 This is the semester project for a machine learning class I took as an undergrad in 2023. It compares various models including LSTM and fine-tuned DistilBERT on sentiment analysis. Report.pdf has a very detailed paper-like presentation of what was done. 
 
